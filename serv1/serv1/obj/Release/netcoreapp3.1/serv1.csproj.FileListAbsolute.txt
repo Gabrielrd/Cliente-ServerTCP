@@ -1,0 +1,12 @@
+/Users/gabriel/Desktop/serv1/serv1/bin/Release/netcoreapp3.1/serv1.deps.json
+/Users/gabriel/Desktop/serv1/serv1/bin/Release/netcoreapp3.1/serv1.runtimeconfig.json
+/Users/gabriel/Desktop/serv1/serv1/bin/Release/netcoreapp3.1/serv1.runtimeconfig.dev.json
+/Users/gabriel/Desktop/serv1/serv1/bin/Release/netcoreapp3.1/serv1.dll
+/Users/gabriel/Desktop/serv1/serv1/bin/Release/netcoreapp3.1/serv1.pdb
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.csprojAssemblyReference.cache
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.AssemblyInfoInputs.cache
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.AssemblyInfo.cs
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.csproj.CoreCompileInputs.cache
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.dll
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.pdb
+/Users/gabriel/Desktop/serv1/serv1/obj/Release/netcoreapp3.1/serv1.genruntimeconfig.cache
